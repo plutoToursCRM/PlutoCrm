@@ -2,7 +2,8 @@
   "name": "plutocrm",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/plutoToursCRM/PlutoCrm",
+  "homepage": "https://plutoToursCRM.github.io/PlutoCrm",
+
   "type": "module",
   "scripts": {
     "dev": "vite",
